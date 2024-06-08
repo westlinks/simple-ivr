@@ -1,8 +1,8 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/talgatbaltasov/simple-ivr.svg?style=flat-square)](https://packagist.org/packages/talgatbaltasov/simple-ivr)
-[![Total Downloads](https://img.shields.io/packagist/dt/talgatbaltasov/simple-ivr.svg?style=flat-square)](https://packagist.org/packages/talgatbaltasov/simple-ivr)
-![GitHub Actions](https://github.com/talgatbaltasov/simple-ivr/actions/workflows/main.yml/badge.svg)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/westlinks/simple-ivr.svg?style=flat-square)](https://packagist.org/packages/westlinks/simple-ivr)
+[![Total Downloads](https://img.shields.io/packagist/dt/westlinks/simple-ivr.svg?style=flat-square)](https://packagist.org/packages/westlinks/simple-ivr)
+![GitHub Actions](https://github.com/westlinks/simple-ivr/actions/workflows/main.yml/badge.svg)
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
@@ -11,7 +11,7 @@ This is where your description should go. Try and limit it to a paragraph or two
 You can install the package via composer:
 
 ```bash
-composer require talgatbaltasov/simple-ivr
+composer require westlinks/simple-ivr
 ```
 
 ## Usage
@@ -40,7 +40,7 @@ If you discover any security related issues, please email Talgat.baltasov@gmail.
 
 ## Credits
 
--   [Talgat Baltassov](https://github.com/talgatbaltasov)
+-   [Talgat Baltassov](https://github.com/westlinks)
 -   [All Contributors](../../contributors)
 
 ## License

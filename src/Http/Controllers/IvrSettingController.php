@@ -1,8 +1,8 @@
 <?php
 
-namespace Talgatbaltasov\SimpleIvr\Http\Controllers;
+namespace Westlinks\SimpleIvr\Http\Controllers;
 
-use Talgatbaltasov\SimpleIvr\Models\IvrSetting;
+use Westlinks\SimpleIvr\Models\IvrSetting;
 use Illuminate\Http\Request;
 
 class IvrSettingController extends Controller

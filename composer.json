@@ -1,11 +1,11 @@
 {
-    "name": "talgatbaltasov/simple-ivr",
+    "name": "westlinks/simple-ivr",
     "description": "Simple IVR package",
     "keywords": [
-        "talgatbaltasov",
+        "westlinks",
         "simple-ivr"
     ],
-    "homepage": "https://github.com/talgatbaltasov/simple-ivr",
+    "homepage": "https://github.com/westlinks/simple-ivr",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Talgatbaltasov\\SimpleIvr\\": "src"
+            "Westlinks\\SimpleIvr\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Talgatbaltasov\\SimpleIvr\\Tests\\": "tests"
+            "Westlinks\\SimpleIvr\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -43,10 +43,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Talgatbaltasov\\SimpleIvr\\SimpleIvrServiceProvider"
+                "Westlinks\\SimpleIvr\\SimpleIvrServiceProvider"
             ],
             "aliases": {
-                "SimpleIvr": "Talgatbaltasov\\SimpleIvr\\SimpleIvrFacade"
+                "SimpleIvr": "Westlinks\\SimpleIvr\\SimpleIvrFacade"
             }
         }
     }

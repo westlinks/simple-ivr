@@ -1,11 +1,11 @@
 <?php
 
-namespace Talgatbaltasov\SimpleIvr;
+namespace Westlinks\SimpleIvr;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Talgatbaltasov\SimpleIvr\Skeleton\SkeletonClass
+ * @see \Westlinks\SimpleIvr\Skeleton\SkeletonClass
  */
 class SimpleIvrFacade extends Facade
 {

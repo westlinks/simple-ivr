@@ -1,6 +1,6 @@
 <?php
 
-namespace Talgatbaltasov\SimpleIvr\Http\Controllers;
+namespace Westlinks\SimpleIvr\Http\Controllers;
 
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Routing\Controller as BaseController;

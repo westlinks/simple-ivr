@@ -1,6 +1,6 @@
 <?php
 
-namespace Talgatbaltasov\SimpleIvr;
+namespace Westlinks\SimpleIvr;
 
 class SimpleIvr
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Talgatbaltasov\SimpleIvr\Models;
+namespace Westlinks\SimpleIvr\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
