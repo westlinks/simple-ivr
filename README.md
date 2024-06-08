@@ -36,11 +36,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ### Security
 
-If you discover any security related issues, please email Talgat.baltasov@gmail.com instead of using the issue tracker.
+If you discover any security related issues, please email info@westlinks.com instead of using the issue tracker.
 
 ## Credits
 
--   [Talgat Baltassov](https://github.com/westlinks)
+-   [Westlinks Online](https://github.com/westlinks)
 -   [All Contributors](../../contributors)
 
 ## License
