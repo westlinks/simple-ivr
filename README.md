@@ -36,7 +36,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ### Security
 
-If you discover any security related issues, please email info@westlinks.com instead of using the issue tracker.
+If you discover any security related issues, please use the issue tracker.
 
 ## Credits
 
