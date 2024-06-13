@@ -15,9 +15,15 @@ composer require westlinks/simple-ivr
 ```
 
 ## Usage
-
+This is a special use sub-package used to add an IVR tree to the Helpline Manager web app. It is not registered at Packagist and must be installed semi-manually. Currently Helpline Manager is a private repo. 
 ```php
-// Usage description here
+//Add to composer.json just prior to the require{} section.
+    "repositories": [
+        {
+            "type": "path",
+            "url": "local/simple-ivr"
+        }
+        ],
 ```
 
 ### Testing
